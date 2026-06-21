@@ -1145,9 +1145,6 @@ PRODUCT_PACKAGES += \
     libthreadutils \
     libubifocus \
     libvideoml \
-    vendor.oplus.hardware.cameraextension-V1-ndk \
-    vendor.oplus.hardware.cammidasservice-V1-ndk_vendor \
-    vendor.oplus.hardware.commondcs-V1-ndk_platform \
     vendor.qti.hardware.camera.aon-service-impl \
     vendor.qti.hardware.camera.postproc@1.0-service-impl \
     com.qti.sensor.imx355 \
@@ -1344,12 +1341,9 @@ PRODUCT_PACKAGES += \
     libyuv2 \
     libyuvwrapper \
     libziparchive_odm \
-    vendor.oplus.hardware.camera_rfi-V1-ndk \
     vendor.oplus.hardware.camera_rfi-V1-service-impl \
     vendor.oplus.hardware.cameraextension-V1-service-impl \
-    vendor.oplus.hardware.cammidasservice-V1-ndk \
     vendor.oplus.hardware.sendextcamcmd-V1-service-impl \
-    vendor.oplus.hardware.sendextcamcmd-V2-ndk \
     odm_lib_rfsa_adsp_libtfadsp_sb4_0_rx_so \
     odm_lib_rfsa_adsp_libtfadsp_sb4_0_tx_so \
     vendor.qti.camera.aon-impl-1.3.xml \
